@@ -2,7 +2,74 @@
     <signos>
         <signo>
             <dataInicio>21/03</dataInicio>
-            <dataFim>20/04<dataFim>
+            <dataFim>20/04</dataFim>
             <signoNome>Áries</signoNome>
-            <descricao>Lorem ipsum</descricao>
+            <descricao>O carneiro. Não consegue voltar atrás depois de se lançar de cabeça em uma direção, age de modo firme, forte e impetuoso. A decisão soberana desperta todo o resto.</descricao>
         </signo>
+        <signo>
+            <dataInicio>21/04</dataInicio>
+            <dataFim>20/05</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao>Animal de estrutura forte e poderosa. Seus significados remetem à vida material, ao instinto de sobrevivência e a intensa sede de viver tudo que a vida pode oferecer.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>21/05</dataInicio>
+            <dataFim>21/06</dataFim>
+            <signoNome>Gêmeos</signoNome>
+            <descricao>Duas mentes pensam melhor do que uma, assim como duas mentes em uma. O signo lembra que somos únicos e muitos em um. Os pensamentos podem mudar de direção e de entendimento. Sempre há algo novo para aprender e para trocar com o outro.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>22/06</dataInicio>
+            <dataFim>22/07</dataFim>
+            <signoNome>Câncer</signoNome>
+            <descricao>O caranguejo. Arisco, que costuma se movimentar de forma estratégica, não costuma atacar de forma direta, e age de modo sutil e sinuoso, pelas laterais, até conquistar o que deseja.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/07</dataInicio>
+            <dataFim>22/08</dataFim>
+            <signoNome>Leão</signoNome>
+            <descricao>Simboliza a força, a autoridade e o poder de comando do rei dos animais. Uma figura única, impossível de passar despercebida, de natureza imponente e invencível.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/08</dataInicio>
+            <dataFim>22/09</dataFim>
+            <signoNome>Virgem</signoNome>
+            <descricao>Um ser da terra, representa a busca essencial quase que utópica do signo por perfeição e pureza. A humanidade que enxerga sua limitação e busca incansavelmente pela melhor versão de si mesma.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/09</dataInicio>
+            <dataFim>22/10</dataFim>
+            <signoNome>Libra</signoNome>
+            <descricao>A balança. O principal arquétipo do signo faz referência ao equilíbrio. Nas culturas antigas, o objeto é relacionado aos julgamentos. Até hoje, é um dos ícones que identificam a justiça.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/10</dataInicio>
+            <dataFim>21/11</dataFim>
+            <signoNome>Escorpião</signoNome>
+            <descricao>O Escorpião. Intenso, misterioso, transformador. Vive entre as sombras e a revelação. Profundo no querer, no sentir, no revolver — quando se entrega, é para além do superficial; quando guarda rancor, é para nunca esquecer</descricao>
+        </signo>
+        <signo>
+            <dataInicio>22/11</dataInicio>
+            <dataFim>21/12</dataFim>
+            <signoNome>Sagitário</signoNome>
+            <descricao>O Centauro. Aventureiro, otimista, filosófico. Quer entender o mundo, quer expandir horizontes. Viaja — física ou mentalmente — buscando sentido, liberdade e o sabor do desconhecido.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>22/12</dataInicio>
+            <dataFim>19/01</dataFim>
+            <signoNome>Capricórnio</signoNome>
+            <descricao>O Bode. Responsável, ambicioso, disciplinado. Tem paciência para construir degrau por degrau, para resistir. Não se ilude com atalhos: seu poder está no compromisso com a dureza do tempo e no estilo de fazer crescer o que leva trabalho.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>20/01</dataInicio>
+            <dataFim>18/02</dataFim>
+            <signoNome>Aquário</signoNome>
+            <descricao>O aguadeiro. Original, independente, visionário. Gosta de pensar diferente, de ver além, de idealizar. Às vezes distante emocionalmente, mas sempre conectado ao coletivo, ao novo, ao futuro.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>19/02</dataInicio>
+            <dataFim>20/03</dataFim>
+            <signoNome>Peixes</signoNome>
+            <descricao>Os Peixes. Sonhador, compassivo, intuitivo. Vive entre o real e o etéreo, muito sensível ao ambiente e às emoções alheias. Tem grande capacidade de empatia, imaginação e transcendência — mas também precisa de refúgio quando o mundo pesa.</descricao>
+        </signo>
+    </signos>
